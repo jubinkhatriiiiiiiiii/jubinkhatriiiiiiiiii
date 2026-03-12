@@ -91,26 +91,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<!-- Replace with your actual projects -->
-<div align="center">
-  <a href="https://github.com/jubinkhatriiiiiiiiii/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jubinkhatriiiiiiiiii&repo=project1&theme=dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/jubinkhatriiiiiiiiii/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jubinkhatriiiiiiiiii&repo=project2&theme=dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/jubinkhatriiiiiiiiii/project3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jubinkhatriiiiiiiiii&repo=project3&theme=dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/jubinkhatriiiiiiiiii/project4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jubinkhatriiiiiiiiii&repo=project4&theme=dark&hide_border=true" />
-  </a>
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
