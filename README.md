@@ -96,24 +96,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-    <a href="https://github.com/jubinkhatriiiiiiiiii/project1" style="text-decoration: none;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jubinkhatriiiiiiiiii&repo=project1&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FFAA&icon_color=00FFAA&text_color=ffffff&border_color=00FFAA" />
-    </a>
-    <a href="https://github.com/jubinkhatriiiiiiiiii/project2" style="text-decoration: none;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jubinkhatriiiiiiiiii&repo=project2&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FFAA&icon_color=00FFAA&text_color=ffffff&border_color=00FFAA" />
-    </a>
-    <a href="https://github.com/jubinkhatriiiiiiiiii/project3" style="text-decoration: none;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jubinkhatriiiiiiiiii&repo=project3&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FFAA&icon_color=00FFAA&text_color=ffffff&border_color=00FFAA" />
-    </a>
-    <a href="https://github.com/jubinkhatriiiiiiiiii/project4" style="text-decoration: none;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jubinkhatriiiiiiiiii&repo=project4&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FFAA&icon_color=00FFAA&text_color=ffffff&border_color=00FFAA" />
-    </a>
-  </div>
-</div>
 
 ---
 
